@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/liltest/static/css/main.cc813e85.chunk.css",
-    "main.js": "/liltest/static/js/main.5c4a9360.chunk.js",
-    "main.js.map": "/liltest/static/js/main.5c4a9360.chunk.js.map",
+    "main.js": "/liltest/static/js/main.4c6c3fd4.chunk.js",
+    "main.js.map": "/liltest/static/js/main.4c6c3fd4.chunk.js.map",
     "runtime-main.js": "/liltest/static/js/runtime-main.3edf92c1.js",
     "runtime-main.js.map": "/liltest/static/js/runtime-main.3edf92c1.js.map",
     "static/js/2.8adfdecf.chunk.js": "/liltest/static/js/2.8adfdecf.chunk.js",
     "static/js/2.8adfdecf.chunk.js.map": "/liltest/static/js/2.8adfdecf.chunk.js.map",
     "index.html": "/liltest/index.html",
-    "precache-manifest.44e78033532380906509bba1251de133.js": "/liltest/precache-manifest.44e78033532380906509bba1251de133.js",
+    "precache-manifest.2227916f9cca020761d5c5d59f38a8fc.js": "/liltest/precache-manifest.2227916f9cca020761d5c5d59f38a8fc.js",
     "service-worker.js": "/liltest/service-worker.js",
     "static/css/main.cc813e85.chunk.css.map": "/liltest/static/css/main.cc813e85.chunk.css.map",
     "static/js/2.8adfdecf.chunk.js.LICENSE": "/liltest/static/js/2.8adfdecf.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3edf92c1.js",
     "static/js/2.8adfdecf.chunk.js",
     "static/css/main.cc813e85.chunk.css",
-    "static/js/main.5c4a9360.chunk.js"
+    "static/js/main.4c6c3fd4.chunk.js"
   ]
 }
